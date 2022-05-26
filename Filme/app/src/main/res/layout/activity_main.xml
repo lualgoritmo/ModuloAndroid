@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:contentDescription="@string/imagem_filme_cavaleiros_zodiaco">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_image_250"
+            android:src="@drawable/cavaleiros_zodiaco"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/imagem_filme_cavaleiros_zodiaco"
+            android:layout_marginTop="@dimen/image_margin_top_36"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_fon_size_16"
+            android:layout_marginTop="@dimen/text_margin_top_24"
+            android:text="@string/nome_filme"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+

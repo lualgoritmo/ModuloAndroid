@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_image_250">250dp</dimen>
+    <dimen name="image_margin_top_36">36dp</dimen>
+    <dimen name="text_fon_size_16">16sp</dimen>
+    <dimen name="text_margin_top_24">24dp</dimen>
+</resources>
