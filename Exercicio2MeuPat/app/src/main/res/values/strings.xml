@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercicio2MeuPat</string>
+    <string name="titulo_app">Meu Pat</string>
+    <string name="subtitle_photo">ESSA É A FOTO DO MEU PET</string>
+    <string name="btn_msg">Mensagem</string>
+    <string name="name_pet">Nome: Biscoito</string>
+    <string name="raca_pet">Raça do Pet: Não sei</string>
+    <string name="idade_pet_2_anos">Idade Pet: 2 anos</string>
+</resources>
