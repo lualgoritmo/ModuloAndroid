@@ -8,5 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cor_primaria">#B0003A</color>
-    <color name="cor_secundaria">#DDD</color>
+    <color name="cor_secundaria">#F0F0F0</color>
+    <color name="txt_colortitulo">#000</color>
 </resources>

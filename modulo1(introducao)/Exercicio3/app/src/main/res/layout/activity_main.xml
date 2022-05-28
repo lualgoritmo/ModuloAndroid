@@ -21,6 +21,8 @@
         android:background="@color/cor_secundaria"
         android:layout_gravity="center"
         android:gravity="center"
+        android:textColor="@color/txt_colortitulo"
+        android:layout_marginTop="@dimen/txt_margintop4"
         android:textSize="16sp"
         />
     <TextView
