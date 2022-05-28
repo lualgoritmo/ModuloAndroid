@@ -66,12 +66,13 @@
         />
     <Button
         android:id="@+id/btn_mensagem"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_msg"
         android:textSize="@dimen/btntxtsize14"
         android:textAllCaps="true"
         android:layout_margin="48dp"
+        android:layout_gravity="center"
         android:background="@color/btnbackground"
         />
     <TextView
