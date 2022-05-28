@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/redhot"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_titulomusica"
+        android:background="@color/cor_secundaria"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="16sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cor_secundaria"
+        android:text="Psychic spies from China try to steal your mind's elation
+            And little girls from Sweden dream of silver screen quotation
+            And if you want these kind of dreams it's Californication"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="12sp"
+        />
+</LinearLayout>
