@@ -24,4 +24,7 @@ class DetalheCaoActivity : AppCompatActivity() {
         binding.txtviewCor.text = cao?.getCor()
         binding.txtviewIdade.text = cao?.getIdade()?.toString()
     }
+    private fun exibirNome() {
+
+    }
 }
