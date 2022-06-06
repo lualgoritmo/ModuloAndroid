@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         this.nome = binding.txtnamepet.text.toString()
         this.cor = binding.txtcorpet.text.toString()
         this.idade = binding.txtidadepet.text.toString()
-
+    //INSTANCIADO O OBJETO CAO PARA ENVIAR PARA O DETALHE CAO(CLASS)
         val cao = Cao(nome, cor, idade.toInt())
         val intent = Intent(this, DetalheCaoActivity::class.java)
         intent.putExtra("CAO", cao)

@@ -22,6 +22,7 @@ class DetalheCaoActivity : AppCompatActivity() {
         //FORMA PARA SER EM LISTA
         //        val caes = intent.getParcelableArrayListExtra<Cao>("CAES")
 //        val cao = caes?.get(1)
+        //MOSTRANDO O OBJETO CAO RECEBIDO
         val cao = intent.getParcelableExtra<Cao>("CAO")
         binding.txtviewNome.text = cao?.getNome()
         binding.txtviewCor.text = cao?.getCor()

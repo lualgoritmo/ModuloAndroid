@@ -3,10 +3,8 @@
     <string name="titulo_app">Meu Pat</string>
     <string name="subtitle_photo">ESSA É A FOTO DO MEU PET</string>
     <string name="btn_msg">Ir para Detalhe</string>
-    <string name="name_pet">Nome: Biscoito</string>
-    <string name="raca_pet">Raça do Pet: Não sei</string>
-    <string name="idade_pet_2_anos">Idade Pet: 2 anos</string>
     <string name="idade_do_cachorro">Idade</string>
     <string name="nome_cachorro">Nome do Cachorro</string>
     <string name="raca_cachorro">Raça</string>
+    <string name="mostra_nome">Mostra nome</string>
 </resources>
